@@ -8,6 +8,7 @@ Apesar de ter apenas 17 anos, já estou na área de desenvolvimento há 1 ano e 
 - 🎓 **Acadêmico:** 
 	- Concluindo o Ensino Médio;
 	- Curso Desenvolvedor Web Completo na **[Udemy](https://www.udemy.com/course/curso-desenvolvedor-web-completo/)**;
+	- Cursando **Defesa Cibernética**;
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jwmffreitas)](https://github.com/Jwmffreitas/github-readme-stats)
 
