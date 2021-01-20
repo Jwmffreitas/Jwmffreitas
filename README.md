@@ -4,7 +4,7 @@ Apesar de ter apenas 17 anos, já estou na área de desenvolvimento há 1 ano e 
 
 - 💼 Atualmente atuo como **Designer** e **Desenvolvedor Front-end** freelancer.
 - 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery.
-- 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Illustrator, Adobe XD, CorelDRAW.
+- 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Adobe XD, CorelDRAW.
 - 🎓 **Acadêmico:** 
 	- Concluindo o Ensino Médio;
 	- Curso Desenvolvedor Web Completo na **[Udemy](https://www.udemy.com/course/curso-desenvolvedor-web-completo/)**;
