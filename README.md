@@ -1,6 +1,6 @@
 <h3> Olá! 😄 </h3>
 Me chamo João Vitor.<br>
-Apesar de ter apenas 17 anos, já estou na área de desenvolvimento há 1 ano e esse ano estou me esforçando ao máximo pra me aprimorar nessa quarentena.
+Tenho 18 anos, ainda jovem na vida e na área de desenvolvimento kkkk. Gosto muito da área front-end mas, atualmente, estou com uma curiosidade bem grande em outras stacks... Bom... Vamos ver o que virá 😅
 
 - 💼 Atualmente atuo como **Designer** e **Desenvolvedor Front-end** freelancer.
 - 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery.
