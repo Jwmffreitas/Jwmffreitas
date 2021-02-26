@@ -6,7 +6,7 @@ Tenho 18 anos, ainda jovem na vida e na área de desenvolvimento kkkk. Gosto mui
 - 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery, React.js.
 - 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Adobe XD, CorelDRAW.
 - 🎓 **Acadêmico:** 
-	- Concluindo o Ensino Médio;
+	- Ensino Médio;
 	- Curso Desenvolvedor Web Completo na **[Udemy](https://www.udemy.com/course/curso-desenvolvedor-web-completo/)**;
 	- Cursando **Defesa Cibernética**;
 
