@@ -3,8 +3,8 @@ Me chamo João Vitor.<br>
 Tenho 18 anos, ainda jovem na vida e na área de desenvolvimento kkkk. Gosto muito da área front-end mas, atualmente, estou com uma curiosidade bem grande em outras stacks... Bom... Vamos ver o que virá 😅
 
 - 💼 Atualmente atuo como **Designer** e **Desenvolvedor Front-end** freelancer.
-- 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery, React.js.
-- 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Adobe XD, CorelDRAW.
+- 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery, React.js, NextJS.
+- 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Figma, Adobe XD, CorelDRAW.
 - 🎓 **Acadêmico:** 
 	- Ensino Médio;
 	- Curso Desenvolvedor Web Completo na **[Udemy](https://www.udemy.com/course/curso-desenvolvedor-web-completo/)**;
