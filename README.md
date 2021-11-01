@@ -1,10 +1,22 @@
 <h3> Olá! 😄 </h3>
 Me chamo João Vitor.<br>
-Tenho 18 anos, ainda jovem na vida e na área de desenvolvimento kkkk. Gosto muito da área front-end mas, atualmente, estou com uma curiosidade bem grande em outras stacks... Bom... Vamos ver o que virá 😅
+Tenho 18 anos. A minha jornada começou com uma paixão por Desenvolvimento Front-end, foi até nessa área que eu consegui meu estágio. Porém, recentemente comecei a olhar para Infra e DevOps, e isso me chamou a atenção. No meu profissional, estou focando mais em Infra e DevOps. Mas vira e mexe eu vou tentar fazer uns projetinhos aleatórios aqui, porque desenvolver tá virando um hobby.
 
-- 💼 Atualmente atuo como **Designer** e **Desenvolvedor Front-end**.
-- 💻 **Linguagens:** HTML, CSS, JavaScript, jQuery, React.js, NextJS.
-- 🛠️ **Ferramentas:** Visual Studio Code, GitHub, Photoshop, Figma, Adobe XD, CorelDRAW.
+##
+
+Mais pra frente, quero dar um upgrade nas minhas habilidades com back, que são quase nulas, então... Logo mais vocês me verão apanhar pra NodeJS por aqui.
+
+E pra Flutter também porque estou com uma curiosidade em Dev. Mobile.
+
+- 💼 **Analista de Sistemas Jr** na **Frexco**.
+- 💻 **Linguagens:** 
+	- **HTML** e **CSS**;
+	- **JavaScript** (React, NextJS, TypeScript);
+	- **Python** (tkinter).
+- 🛠️ **Ferramentas:** 
+	- **Dev:** Visual Studio Code, GitHub, Pycharm;
+	- **DevOps:** AWS, Nginx, Docker, Vault;
+	- **Design:** Figma, Adobe XD, Photoshop, CorelDraw.
 - 🎓 **Acadêmico:** 
 	- Cursando **Defesa Cibernética**;
 <div>
@@ -22,5 +34,6 @@ Tenho 18 anos, ainda jovem na vida e na área de desenvolvimento kkkk. Gosto mui
   <img align="center" alt="Jwmffreitas-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Jwmffreitas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jwmffreitas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jwmffreitas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
