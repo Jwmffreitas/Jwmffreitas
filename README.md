@@ -12,7 +12,7 @@ E pra Flutter também porque estou com uma curiosidade em Dev. Mobile.
 - 💻 **Linguagens:** 
 	- **HTML** e **CSS**;
 	- **JavaScript** (React, NextJS, TypeScript);
-	- **Python** (tkinter).
+	- **Python** (Tkinter).
 - 🛠️ **Ferramentas:** 
 	- **Dev:** Visual Studio Code, GitHub, Pycharm;
 	- **DevOps:** AWS, Nginx, Docker, Vault;
