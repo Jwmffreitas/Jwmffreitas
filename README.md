@@ -1,10 +1,10 @@
 <h3> Olá! 😄 </h3>
 Me chamo João Vitor.<br>
-Tenho 18 anos. A minha jornada começou com uma paixão por Desenvolvimento Front-end, foi até nessa área que eu consegui meu estágio. Porém, recentemente comecei a olhar para Infra e DevOps, e isso me chamou a atenção. No meu profissional, estou focando mais em Infra e DevOps. Mas vira e mexe eu vou tentar fazer uns projetinhos aleatórios aqui, porque desenvolver tá virando um hobby.
+Tenho 18 anos. A minha jornada começou com uma paixão por Desenvolvimento Front-end, foi até nessa área que eu consegui meu estágio. Porém, recentemente comecei a olhar para Infra e DevOps, e isso me chamou a atenção. No meu profissional, estou focando mais em Infra e DevOps. Mas vira e mexe eu vou tentar fazer uns projetinhos aleatórios aqui, porque desenvolver é divertido.
 
 ##
 
-Mais pra frente, quero dar um upgrade nas minhas habilidades com back, que são quase nulas, então... Logo mais vocês me verão apanhar pra NodeJS por aqui.
+Mais pra frente, quero dar um upgrade nas minhas habilidades com Back-end, que são quase nulas (famoso "Ih... Será q dá pro gasto?"), então... Logo mais vocês me verão apanhar pra NodeJS por aqui.
 
 E pra Flutter também porque estou com uma curiosidade em Dev. Mobile.
 
