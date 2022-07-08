@@ -10,7 +10,7 @@ Meu foco profissionalmente no mercado está em DevOps e Infraestrutura. Mas vira
 	- **JavaScript** (React, NextJS, TypeScript);
 	- **Python** (Tkinter);
 	- **Terraform**;
-	- **Bash script**.
+	- **Shell script**.
 - 🛠️ **Ferramentas:** 
 	- **Dev:** Visual Studio Code, GitHub, Pycharm;
 	- **DevOps:** AWS, Nginx, Docker, Vault;
