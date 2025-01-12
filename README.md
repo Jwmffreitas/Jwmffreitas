@@ -1,22 +1,27 @@
 <h3> Olá! 😄 </h3>
 Me chamo João Vitor.<br>
-Meu foco profissionalmente no mercado está em DevOps e Infraestrutura. Mas vira e mexe eu vou tentar fazer uns projetinhos aleatórios aqui, porque desenvolver é divertido.
+Tenho mais de 4 anos de experiência na área de tecnologia, com foco em DevOps e Infraestrutura. 
+
+De vez em quando, me aventuro no desenvolvimento e coloco por aqui.
 
 ##
 
-- 💼 **Analista DevOps** na **Frexco**.
+- 💼 **DevOps Tech Lead** na **Frexco**.
 - 💻 **Linguagens:** 
 	- **HTML** e **CSS**;
-	- **JavaScript** (React, NextJS, TypeScript);
-	- **Python** (Tkinter);
+	- **JavaScript** (React, NextJS, Node, React Native, TypeScript);
+	- **Python** (Tkinter, Django, FastAPI, Flask);
 	- **Terraform**;
-	- **Shell script**.
+	- **Shell script**;
+ 	- **Dart** (Flutter);
+  	- **Golang**.
 - 🛠️ **Ferramentas:** 
 	- **Dev:** Visual Studio Code, GitHub, Pycharm;
-	- **DevOps:** AWS, Nginx, Docker, Vault;
+	- **DevOps:** AWS, GCP, Nginx, Kong, Docker, Vault, Rancher, K8s;
 	- **Design:** Figma, Adobe XD, Photoshop, CorelDraw.
 - 🎓 **Acadêmico:** 
-	- Cursando **Defesa Cibernética**;
+	- Graduado em **Defesa Cibernética**;
+ 	- Pós-graduado em **Arquitetura de Software e Soluções**;
 <div>
   <a href="https://github.com/jwmffreitas">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jwmffreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -33,5 +38,12 @@ Meu foco profissionalmente no mercado está em DevOps e Infraestrutura. Mas vira
   <img align="center" alt="Jwmffreitas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jwmffreitas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jwmffreitas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jwmffreitas-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img align="center" alt="Jwmffreitas-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Jwmffreitas-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Jwmffreitas-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Jwmffreitas-GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Jwmffreitas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Jwmffreitas-K8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
 </div>
 
